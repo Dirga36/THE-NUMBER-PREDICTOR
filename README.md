@@ -5,7 +5,7 @@
 
 
 ### 1. clone repositori ni
-### 2. Jika sudah konfigurasi Python dengan [env variable](https://en.wikipedia.org/wiki/Environment_variable) di komputer Anda, Anda dapat menjalankan command ini:
+### 2. Jika sebelumnya sudah konfigurasi Python dengan [env variable](https://en.wikipedia.org/wiki/Environment_variable) di komputer Anda, Anda dapat menjalankan command ini:
 ```bash
 python main.py
 ```
