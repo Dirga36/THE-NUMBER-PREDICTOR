@@ -1,10 +1,11 @@
 ## GETTING STARTED
 
 ### prerequisites:
-- versi Python: 3.x
+- Python 3.x
+
 
 ### 1. clone repositori ni
-### 2. Jika sudah konfigurasi Python dengan env variable di komputer Anda, Anda dapat menjalankan command ini
+### 2. Jika sudah konfigurasi Python dengan [env variable](https://en.wikipedia.org/wiki/Environment_variable) di komputer Anda, Anda dapat menjalankan command ini:
 ```bash
 python main.py
 ```
